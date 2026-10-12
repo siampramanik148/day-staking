@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day Staking</string>
+    <string name="exit_title">Exit App</string>
+    <string name="exit_message">Are you sure you want to close Day Staking?</string>
+    <string name="exit_yes">Yes, Exit</string>
+    <string name="exit_no">Stay</string>
+    <string name="error_title">No Internet Connection</string>
+    <string name="error_message">Please check your connection and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="no_app_found">No app found to open this link</string>
+</resources>
